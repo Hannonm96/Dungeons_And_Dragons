@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Dungeons_And_Dragons</string>
+    <string name="registerBtn">Register</string>
+    <string name="loginBtn">Login</string>
+    <string name="loginLbl">Welcome</string>
+    <string name="createAccountButton">Create Account</string>
+    <string name="test" />
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="campaign_nav_text">Campaign</string>
+    <string name="character_nav_text">Characters</string>
+    <string name="initiative_nav_text">Initiative</string>
+    <string name="campaign_frag_text">CAMPAIGN</string>
+    <string name="initiative__frag_text">Initiative</string>
+    <string name="character_frag_text">Character</string>
+    <string name="campaing_name_text">name</string>
+    <string name="campaign_name_text">Campaign Name:</string>
+    <string name="character_name_text">Character Name</string>
+    <string name="character_level_text">3</string>
+    <string name="character_level_lbl">Level:</string>
+    <string name="character_str_lbl">Strength:</string>
+    <string name="character_str_text">1</string>
+    <string name="character_const_lbl">Constitution:</string>
+    <string name="character_const_text">1</string>
+    <string name="character_dex_lbl">Dexterity:</string>
+    <string name="character_int_lbl">Intelligence:</string>
+    <string name="character_wis_lbl">Wisdom:</string>
+    <string name="character_char_lbl">Charisma:</string>
+    <string name="add_char_textview">Add Character:</string>
+    <string name="save">Save</string>
+    <string name="add_camp_textview">Add Campaign:</string>
+    <string name="character_init_label">Initiative:</string>
+    <string name="monster_name_text">Monster Name:</string>
+    <string name="add_monster_label">Add Monster:</string>
+    <string name="monster_level_text">Level:</string>
+    <string name="roll">Sort Initiative</string>
+    <string name="sort_button">Sort</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="preferences_menu">Preferences</string>
+    <string name="help_menu">Help</string>
+    <string name="monster_nav_text">Monsters</string>
+    <string name="help_text">App Navigation\n\n
+        Tabs\n1.Campaigns\n2.Characters\n3.Monsters\n\n
+        Tab Abilities\n\n
+        Add:\nEach tab can add a new campaign, character, or monster, to do this press the button with the plus sign on the bottom right of the screen.  This will bring up a screen that will allow you to fill in the boxes and press the save button on the top right when finished.\n\n
+        Update:\nEach tab had the ability to up each of the current campaigns, characters, or  monsters, to do this press the box of the desired item to update which will bring you screen with the current values and allow you to change them.  When done press the save button on the top right screen.\n\n
+        Delete:\nEach tab allows for deleting a campaign, character, or monster, to do this simply swipe right on the desired campaign, character, or monster you want to delete.\n
+    </string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">Email</string>
+</resources>

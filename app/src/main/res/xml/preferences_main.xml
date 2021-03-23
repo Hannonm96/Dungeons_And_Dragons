@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="user_category"
+        android:title="USER">
+
+        <EditTextPreference
+            android:dialogTitle="Your Name"
+            android:dialogMessage="Enter your full name"
+            android:inputType="textCapWords"
+            android:key="key_full_name"
+            android:title="Name"
+            android:summary="@string/user_name">
+
+        </EditTextPreference>
+        <EditTextPreference
+            android:dialogTitle="Your Email"
+            android:dialogMessage="Enter your email"
+            android:inputType="textCapWords"
+            android:key="key_email"
+            android:title="Email"
+            android:summary="@string/user_email">
+
+        </EditTextPreference>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

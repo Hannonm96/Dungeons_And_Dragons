@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.AddEditCharacterActivity">
+
+
+    <EditText
+        android:id="@+id/character_name_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_name_text"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/character_level_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_level_lbl"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/character_str_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_str_lbl"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/character_const_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_const_lbl"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/character_dex_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_dex_lbl"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/character_int_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_int_lbl"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/character_wis_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_wis_lbl"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/character_char_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/character_char_lbl"
+        android:inputType="text" />
+</LinearLayout>

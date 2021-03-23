@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_campaign"
+        android:icon="@drawable/ic_archive_black_24dp"
+        android:title="@string/campaign_nav_text" />
+    <item
+        android:id="@+id/nav_characters"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/character_nav_text" />
+    <item
+        android:id="@+id/nav_monster"
+        android:icon="@drawable/ic_mood_bad_black_24dp"
+        android:title="@string/monster_nav_text" />
+</menu>

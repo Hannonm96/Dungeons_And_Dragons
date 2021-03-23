@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppLight">
+        <item name="android:theme">@style/Theme.AppCompat.DayNight</item>
+    </style>
+    <style name="AppDark">
+        <item name="android:theme">@style/Theme.Design</item>
+    </style>
+</resources>

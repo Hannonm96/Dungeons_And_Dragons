@@ -1,0 +1,2 @@
+rootProject.name='Dungeons_And_Dragons'
+include ':app'
